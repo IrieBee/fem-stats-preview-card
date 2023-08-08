@@ -18,6 +18,7 @@ This is a solution to the Stats Preview Card Component challenge from Frontend M
 
 * To change color only for a few words in a sentence -> <span>.
 * Image in html vs css as background. See first useful link.
+* To fit an image inside container -> width: 100%.
 
 ## Links
 
