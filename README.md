@@ -23,7 +23,7 @@ This is a solution to the Stats Preview Card Component challenge from Frontend M
 * Border-radius with images use overflow: hidden.
 * Place image in the middle -> flexbox with align-item: center.
 * Use flex-direction: column-reverse.
-* To cover the whole space with image used width 102% (before it was a thin line on top and under the image with background color).
+* !!!Worked for Chrome but not Firefox!!! To cover the whole space with image used width 102% (before it was a thin line on top and under the image with background color).
 
 ## Links
 
