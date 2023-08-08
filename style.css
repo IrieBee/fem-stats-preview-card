@@ -58,11 +58,11 @@ main {
     align-items: center;
     width: 48%;
     background-color: var(--clr-transparent-img);
-    z-index: 1;
 }
 
 img {
     opacity: 0.4;
+    width: 102%;
 }
 
 h1, h2{
@@ -95,10 +95,6 @@ span {
     padding-top: 0.6em;
     letter-spacing: 0.05rem;
     color: var(--clr-transparent-headings);
-}
-
-img {
-    width: 100%;
 }
 
 .attribution { 
