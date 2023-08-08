@@ -111,12 +111,29 @@ img {
     color: var(--clr-accent-violet); 
 }
 
-/* main{
-    outline: 2px solid red;
-}
-.card {
-    outline: 5px solid pink;
-}
-.img {
-    outline: 3px dotted orange
-} */
+@media screen and (max-width: 750px) {
+    body {
+        padding: 3rem 0 0;
+        gap: 3rem;
+    }
+    main {
+        flex-direction: column-reverse;
+    }
+    .card {
+        width:100%;
+        padding: 2em;
+        text-align: center;
+    }
+    .content {
+        padding: 1em 0 2.5em;
+    }
+    .img {
+        width: 100%;
+    }
+    .stats {
+        flex-direction: column;
+        align-items: center;
+        gap: 2em;
+        padding: 0;
+    }
+}  
