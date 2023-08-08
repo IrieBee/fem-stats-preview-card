@@ -10,7 +10,7 @@
 
     --fs-m: 0.9375rem;
     --fs-s: 0.8rem;
-    --fs-l: 1.2rem;
+    --fs-l: 2.15rem;
 
     --fw-m: 400;
     --fw-l: 700;
@@ -40,20 +40,23 @@ body {
 
 main {
     display: flex;
-
     width: 80%;
-    max-width: 750px;
+    max-width: 1100px;
     margin: auto;
+    border-radius: 0.5em;
+    overflow: hidden;
 }
 
 .card {
-    padding: 3em;
+    padding: 4.5em;
     background-color: var(--clr-bg-card-blue);
-    width: 55%;
+    width: 52%;
 }
 
 .img {
-    width: 45%;
+    display: flex;
+    align-items: center;
+    width: 48%;
     background-color: var(--clr-transparent-img);
     z-index: 1;
 }
@@ -62,8 +65,12 @@ img {
     opacity: 0.4;
 }
 
+h1, h2{
+    color: var(--clr-white);
+}
+
 h1 {
-    color: var(--clr-transparent-headings);
+    font-size: var(--fs-l);
 }
 
 span {
@@ -71,16 +78,23 @@ span {
 }
 
 .content {
-    padding: 1.5em 0 3em;
+    padding: 1.5em 0 5em;
+    line-height: 1.75;
 }
 
 .stats {
     display: flex;
     justify-content: space-between;
+    padding-right: 3em;
 }
 
 .text {
     text-transform: uppercase;
+    font-family: var(--ff-accent);
+    font-size: var(--fs-s);
+    padding-top: 0.6em;
+    letter-spacing: 0.05rem;
+    color: var(--clr-transparent-headings);
 }
 
 img {
@@ -97,12 +111,12 @@ img {
     color: var(--clr-accent-violet); 
 }
 
-main{
-    /* outline: 2px solid red; */
+/* main{
+    outline: 2px solid red;
 }
 .card {
     outline: 5px solid pink;
 }
 .img {
     outline: 3px dotted orange
-}
+} */
