@@ -20,6 +20,9 @@ This is a solution to the Stats Preview Card Component challenge from Frontend M
 * Image in html vs css as background. See first useful link.
 * To fit an image inside container -> width: 100%.
 * Background coming through image -> 'opacity' for the image (not background).
+* Border-radius with images use overflow: hidden.
+* Place image in the middle -> flexbox with align-item: center.
+* Use flex-direction: column-reverse.
 
 ## Links
 
