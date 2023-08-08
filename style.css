@@ -27,6 +27,10 @@
 }
 
 body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     min-height: 100vh;
     font-family: var(--ff-main);
     font-size: var(--fs-m);
@@ -36,6 +40,9 @@ body {
 }
 
 main {
+    width: 80%;
+    max-width: 600px;
+    margin: auto;
     background-color: var(--clr-bg-card-blue);
 }
 
