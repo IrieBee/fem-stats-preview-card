@@ -45,3 +45,13 @@ h1 {
 span {
     color: var(--clr-accent-violet);
 }
+
+.attribution { 
+    font-size: 0.625rem; 
+    margin-bottom: 0.5em;
+    color: var(--clr-transparent-headings);
+}
+
+.attribution a {
+    color: var(--clr-accent-violet); 
+}
