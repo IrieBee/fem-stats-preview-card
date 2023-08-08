@@ -16,7 +16,7 @@ This is a solution to the Stats Preview Card Component challenge from Frontend M
 
 ### What I learned
 
-* 
+* To change color only for a few words in a sentence -> <span>.
 
 ## Links
 
