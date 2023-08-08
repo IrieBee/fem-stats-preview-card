@@ -18,6 +18,8 @@
     --ff-accent: "Lexend Deca", sans-serif;
 }
 
+
+/* TO DO LIST: text-transform: uppercase, ::before -> image */
 *, *::before, *::after {
     box-sizing: border-box;
     margin: 0;
@@ -35,7 +37,6 @@ body {
 
 main {
     background-color: var(--clr-bg-card-blue);
-
 }
 
 h1 {
@@ -44,6 +45,10 @@ h1 {
 
 span {
     color: var(--clr-accent-violet);
+}
+
+.text {
+    text-transform: uppercase;
 }
 
 .attribution { 
