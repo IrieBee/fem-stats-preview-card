@@ -17,6 +17,7 @@ This is a solution to the Stats Preview Card Component challenge from Frontend M
 ### What I learned
 
 * To change color only for a few words in a sentence -> <span>.
+* Image in html vs css as background. See first useful link.
 
 ## Links
 
@@ -25,6 +26,7 @@ This is a solution to the Stats Preview Card Component challenge from Frontend M
 
 ## Useful resources
 
+* https://www.w3docs.com/snippets/html/when-to-use-html-img-tag-and-css-background-image-property.html
 
 ## Acknowledgements
 
