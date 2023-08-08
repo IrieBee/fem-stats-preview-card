@@ -29,4 +29,19 @@ body {
     font-family: var(--ff-main);
     font-size: var(--fs-m);
     font-weight: var(--fw-m);
+    background-color: var(--clr-bg-main-blue);
+    color: var(--clr-transparent-paragraph);
+}
+
+main {
+    background-color: var(--clr-bg-card-blue);
+
+}
+
+h1 {
+    color: var(--clr-transparent-headings);
+}
+
+span {
+    color: var(--clr-accent-violet);
 }
