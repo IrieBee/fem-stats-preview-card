@@ -11,6 +11,7 @@
     --fs-m: 0.9375rem;
     --fs-s: 0.8rem;
     --fs-l: 2.15rem;
+    --fs-ss: 0.6rem;
 
     --fw-m: 400;
     --fw-l: 700;
@@ -134,3 +135,12 @@ span {
         padding: 0;
     }
 }  
+
+@media screen and (max-width: 1000px) {
+    .stats {
+        padding-right: 0;
+    }
+    .text {
+        font-size: var(--fs-ss);
+    }
+}
