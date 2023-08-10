@@ -107,7 +107,7 @@ span {
     color: var(--clr-accent-violet); 
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 780px) {
     body {
         padding: 3rem 0 0;
         gap: 3rem;
