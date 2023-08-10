@@ -41,7 +41,7 @@ body {
 main {
     display: flex;
     width: 80%;
-    max-width: 1100px;
+    max-width: 1124px;
     margin: auto;
     border-radius: 0.5em;
     overflow: hidden;
@@ -62,7 +62,7 @@ main {
 
 img {
     opacity: 0.4;
-    width: 102%;
+    width: 100%;
 }
 
 h1, h2{
@@ -71,6 +71,7 @@ h1, h2{
 
 h1 {
     font-size: var(--fs-l);
+    padding-right: 0.5em;
 }
 
 span {
@@ -78,7 +79,7 @@ span {
 }
 
 .content {
-    padding: 1.5em 0 5em;
+    padding: 1.5em 0.5em 5em 0;
     line-height: 1.75;
 }
 
