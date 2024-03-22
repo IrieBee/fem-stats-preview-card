@@ -6,7 +6,7 @@ This is a solution to the Stats Preview Card Component challenge from Frontend M
 
 ### Screenshot
 
-![screenshot](https://github.com/ltsyBitsy/fem-stats-preview-card/blob/main/images/screenshot.jpg)
+![screenshot](https://github.com/IrieBee/fem-stats-preview-card/blob/main/images/screenshot.jpg)
 
 ## Built with
 
@@ -28,8 +28,8 @@ This is a solution to the Stats Preview Card Component challenge from Frontend M
 
 ## Links
 
-* Solution URL: https://github.com/ltsyBitsy/fem-stats-preview-card
-* Live Site URL: https://ltsybitsy.github.io/fem-stats-preview-card/
+* Solution URL: https://github.com/IrieBee/fem-stats-preview-card
+* Live Site URL: https://IrieBee.github.io/fem-stats-preview-card/
 
 ## Useful resources
 
